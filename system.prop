@@ -264,3 +264,6 @@ ro.mot.build.product.increment=24
 ro.mot.build.version.release=24.24
 ro.mot.ignore_csim_appid=true
 ro.cutoff_voltage_mv=3200
+
+ro.config.bt_abs_vol_first_pct=6
+ro.config.bt_abs_vol_steps=15
